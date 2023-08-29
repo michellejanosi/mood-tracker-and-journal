@@ -1,0 +1,46 @@
+# Mood Tracker and Journal Project Proposal
+
+## Description
+
+### What is the Mood Tracker and Journal?
+The Mood Tracker and Journal is a web application designed to help users monitor their emotional well-being. This application allows users to log their daily moods along with journal entries to reflect on their day.
+
+### Why Should Someone Use This App?
+Mental health is crucial, yet often overlooked. Tracking your mood along with writing down thoughts can provide invaluable insights into your emotional well-being. The Mood Tracker and Journal aims to offer a simple, yet effective way to manage and track your mental state.
+
+### Benefits
+- Better emotional self-awareness
+- Easy tracking and reviewing
+- Secure and personalized
+- Quick reflection for self-improvement
+
+## Tech Stack
+- Backend: Flask
+- Database: MySQL
+- User Authentication: Flask-Bcrypt
+- Frontend: HTML, CSS (Bootstrap), JavaScript
+
+## Feature List (MVP)
+
+### User Authentication
+- User Registration
+- User Login
+- Password Encryption with bcrypt
+
+### Mood and Journal Entry
+- Add daily mood and journal entry
+- View past entries
+- Edit and delete past entries
+
+## Product Backlog
+
+### Advanced Features
+- Mood analysis and summary reports
+- Email reminders to make entries
+- Export journal to PDF
+- Mood-based music or quote suggestions
+- Social sharing capabilities
+- Multi-device sync
+
+## GitHub Repo
+[GitHub Link] (Link to be added)
