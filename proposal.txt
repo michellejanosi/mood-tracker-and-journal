@@ -43,4 +43,4 @@ Mental health is crucial, yet often overlooked. Tracking your mood along with wr
 - Multi-device sync
 
 ## GitHub Repo
-[GitHub Link] (Link to be added)
+[GitHub Link] (https://github.com/michellejanosi/mood-tracker-and-journal/)
